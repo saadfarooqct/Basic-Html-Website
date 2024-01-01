@@ -21,6 +21,9 @@ position: relative; left: 1000px; bottom: 500px
 h1{
     text-align: center;
 }
+h2{
+    text-align: center;
+}
 .navbar ul{
     list-style-type: none;
     padding: 0;
@@ -33,6 +36,7 @@ h1{
     padding: 15px;
     display: block;
     text-align: center;
+    width: 445px;
 }
 .navbar a:hover{
     background-color: grey;
