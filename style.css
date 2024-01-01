@@ -18,3 +18,6 @@ position: relative; left: 1000px; bottom: 500px
     font-size: 2em;
     position: relative; left: 80px; bottom: 164px;
 }
+h1{
+    text-align: center;
+}
