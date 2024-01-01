@@ -21,3 +21,15 @@ position: relative; left: 1000px; bottom: 500px
 h1{
     text-align: center;
 }
+.navbar ul{
+    list-style-type: none;
+    padding: 0;
+    background-color: black;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
