@@ -25,6 +25,7 @@ h1{
     list-style-type: none;
     padding: 0;
     background-color: black;
+    overflow: hidden;
 }
 .navbar a{
     color: white;
@@ -32,4 +33,10 @@ h1{
     padding: 15px;
     display: block;
     text-align: center;
+}
+.navbar a:hover{
+    background-color: grey;
+}
+.navbar li{
+    float: left;
 }
