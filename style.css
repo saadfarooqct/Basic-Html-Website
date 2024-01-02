@@ -3,8 +3,11 @@ img{
 width: 350px;
 position: relative; left: 550px;
 }
-.img2{
+.img1{
     position: relative; right: 550px;
+}
+.img4{
+    position: relative; bottom: 340px; left: 575px;
 }
 .social-icon{
     color:darkmagenta;
