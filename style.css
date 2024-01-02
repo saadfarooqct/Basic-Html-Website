@@ -1,7 +1,7 @@
 body{background-color:darkcyan}
 img{
 width: 350px;
-position: relative; left: 1000px; bottom: 500px
+position: relative; left: 550px;
 }
 .social-icon{
     color:darkmagenta;
@@ -43,4 +43,7 @@ h2{
 }
 .navbar li{
     float: left;
+}
+main{
+    text-align: center;
 }
