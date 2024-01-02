@@ -3,6 +3,9 @@ img{
 width: 350px;
 position: relative; left: 550px;
 }
+.img2{
+    position: relative; right: 550px;
+}
 .social-icon{
     color:darkmagenta;
     font-size: 2em;
@@ -43,7 +46,4 @@ h2{
 }
 .navbar li{
     float: left;
-}
-main{
-    text-align: center;
 }
