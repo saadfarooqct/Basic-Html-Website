@@ -5,11 +5,14 @@ body{background-color:darkcyan}
 .img1{
     position: relative; left: 25px;
 }
+.img2{
+    position: relative; left: 400px; bottom: 225px;
+}
 .img3{
-    position: relative; bottom: 300px; left: 900px;
+    position: relative; bottom: 450px; left: 900px;
 }
 .img4{
-    position: relative; bottom: 545px; left: 1400px;
+    position: relative; bottom: 695px; left: 1400px;
 }
 .social-icon{
     color:darkmagenta;
