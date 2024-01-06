@@ -17,6 +17,9 @@ body{background-color:darkcyan}
 .language u{ float: left;
     position: relative; top: 50px; left: 50px;
 }
+.framework u{float: left;
+    position: relative; right: 70px; top: 500px;
+}
 .social-icon{
     color:darkmagenta;
     font-size: 2em;
