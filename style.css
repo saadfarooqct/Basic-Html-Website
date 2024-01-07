@@ -23,6 +23,8 @@ body{background-color:darkcyan}
 .framework u{float: left;
     position: relative; right: 70px; top: 500px;
 }
+.mysocials{float: left;
+}
 .social-icon{
     color:darkmagenta;
     font-size: 2em;
