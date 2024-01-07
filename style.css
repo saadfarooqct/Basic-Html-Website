@@ -27,19 +27,19 @@ body{background-color:darkcyan}
 }
 .social-icon{
     color:darkmagenta;
-    font-size: 2em;
-    position: relative; top: 50px; right: 150px;
+    font-size: 15em;
+    position: relative; bottom: 150px; left: 0px;
     height: 110px;
 }
 .social-icon2{
     color:deeppink;
-    font-size: 2em;
-    position: relative; left: 40px; bottom: 91.5px;
+    font-size: 15em;
+    position: relative; left: 300px; bottom: 490px;
 }
 .social-icon3{
     color:blue;
-    font-size: 2em;
-    position: relative; left: 80px; bottom: 164px;
+    font-size: 15em;
+    position: relative; left: 600px; bottom: 1020px;
 }
 h1{
     text-align: center;
