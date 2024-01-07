@@ -28,7 +28,8 @@ body{background-color:darkcyan}
 .social-icon{
     color:darkmagenta;
     font-size: 2em;
-    position: relative; bottom: 20px;
+    position: relative; top: 50px; right: 150px;
+    height: 110px;
 }
 .social-icon2{
     color:deeppink;
