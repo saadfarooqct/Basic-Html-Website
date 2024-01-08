@@ -17,6 +17,9 @@ body{background-color:darkcyan}
 .img5{
     position: relative; right: 1300px; top: 200px;
 }
+.img6{
+    position: relative; right: 900px; bottom: 75px;
+}
 .language u{ float: left;
     position: relative; top: 50px; left: 50px;
 }
