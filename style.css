@@ -1,4 +1,6 @@
-body{background-color:darkcyan}
+body{
+    background-color:darkcyan
+}
 .img{
     position: relative; left: 700px;
 }
@@ -44,6 +46,10 @@ body{background-color:darkcyan}
     color:blue;
     font-size: 15em;
     position: relative; left: 600px; bottom: 1200px;
+}
+.social-icon4{
+    color: aqua;
+    font-size: 15em;
 }
 h1{
     text-align: center;
