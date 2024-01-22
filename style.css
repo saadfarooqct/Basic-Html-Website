@@ -49,7 +49,8 @@ body{
 }
 .social-icon4{
     color: aqua;
-    font-size: 15em;
+    font-size: 20em;
+    position: relative; left: 900px; bottom: 1855px;
 }
 h1{
     text-align: center;
