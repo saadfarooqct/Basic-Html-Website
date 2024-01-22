@@ -71,3 +71,15 @@ h2{
 .navbar li{
     float: left;
 }
+#indexp{
+    font-size: 2em;
+}
+#aboutp{
+    font-size: 2em;
+}
+#projectsp{
+    font-size: 2em;
+}
+#skillsp{
+    font-size: 2em;
+}
