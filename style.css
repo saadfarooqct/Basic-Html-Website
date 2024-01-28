@@ -1,5 +1,5 @@
 body{
-    background-color: lightblue
+    background: linear-gradient(to right, #FFD3A5, #fd6585)
 }
 .img{
     position: relative; left: 700px;
@@ -61,32 +61,35 @@ h2{
 .navbar ul{
     list-style-type: none;
     padding: 0;
-    background-color: black;
     overflow: hidden;
 }
 .navbar a{
     color: white;
+    margin-left: 60px;
+    font-weight: 600;
     text-decoration: none;
     padding: 15px;
     display: block;
+    border-bottom: 2px solid transparent; 
+    transition: all .55s ease;
     text-align: center;
     width: 260px;
 }
 .navbar a:hover{
-    background-color: grey;
+    border-bottom: 2px solid white;
 }
 .navbar li{
     float: left;
 }
 #indexp{
-    font-size: 2em;
+    font-size: 3em;
 }
 #aboutp{
-    font-size: 2em;
+    font-size: 3em;
 }
 #projectsp{
-    font-size: 2em;
+    font-size: 3em;
 }
 #skillsp{
-    font-size: 2em;
+    font-size: 3em;
 }
