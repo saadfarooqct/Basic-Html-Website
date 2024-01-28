@@ -1,5 +1,5 @@
 body{
-    background-color: lightblue
+    background: linear-gradient(to right, #FFD3A5, #fd6585)
 }
 .img{
     position: relative; left: 700px;
