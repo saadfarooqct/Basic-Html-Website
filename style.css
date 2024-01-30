@@ -2,41 +2,11 @@ body{
     background: linear-gradient(to right, #FFD3A5, #fd6585)
 }
 
-.img{
-    position: relative; left: 700px;
+.language u, .framework u { 
+    display: flex;
+    flex-direction: column;
 }
 
-.img1{
-    position: relative; left: 25px; top: 100px;
-}
-
-.img2{
-    position: relative; left: 400px; bottom: 125px;
-}
-
-.img3{
-    position: relative; bottom: 350px; left: 900px;
-}
-
-.img4{
-    position: relative; bottom: 595px; left: 1350px;
-}
-
-.img5{
-    position: relative; right: 1300px; top: 200px;
-}
-
-.img6{
-    position: relative; right: 900px; bottom: 75px;
-}
-
-.language u{ float: left;
-    position: relative; top: 50px; left: 50px;
-}
-
-.framework u{float: left;
-    position: relative; right: 70px; top: 500px;
-}
 
 .social{float: left;
     position: relative;
@@ -69,22 +39,18 @@ body{
 }
 
 h1{
-    text-align: center;
-}
-
-h2{
-    text-align: center;
+    position: relative;
 }
 
 .navbar ul{
     list-style-type: none;
-    padding: 0;
-    overflow: hidden;
+    display: flex;
+    gap: 25px;
+    justify-content: flex-end;
 }
 
 .navbar a{
     color: black;
-    margin-left: 60px;
     font-weight: 600;
     text-decoration: none;
     padding: 15px;
@@ -92,15 +58,10 @@ h2{
     border-bottom: 2px solid transparent; 
     transition: all .55s ease;
     text-align: center;
-    width: 260px;
 }
 
 .navbar a:hover{
     border-bottom: 2px solid black;
-}
-
-.navbar li{
-    float: left;
 }
 
 #indexp{
@@ -117,4 +78,9 @@ h2{
 
 #skillsp{
     font-size: 3em;
+}
+
+.image_wrapper {
+    display:flex;
+    gap:200px;
 }
