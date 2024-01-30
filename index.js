@@ -1,11 +1,12 @@
-const my_icon = document.getElementsByClassName("my-icon");
+const my_icon = document.getElementById("my-icon");
+const iconElement = my_icon.querySelector("ion-icon");
 
 my_icon.addEventListener("mouseover", event => {
-    event.target.style.backgroundColor = "black";
-    event.target.textContent = "saadfarooqct@gmail.com";
+    my_icon.style.backgroundColor = "black";
+    iconElement.setAttribute = "saadfarooqct@gmail.com";
 });
 
 my_icon.addEventListener("mouseout", event => {
-    event.target.style.backgroundColor = "black";
-    event.target.textContent = "saadfarooqct@gmail.com";
+    my_icon.style.backgroundColor = "";
+    iconElement.setAttribute = "";
 });
