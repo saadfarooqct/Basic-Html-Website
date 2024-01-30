@@ -66,18 +66,22 @@ h1{
 
 #indexp{
     font-size: 3em;
+    font-weight: 1000;
 }
 
 #aboutp{
     font-size: 3em;
+    font-weight: 1000;
 }
 
 #projectsp{
     font-size: 3em;
+    font-weight: 1000;
 }
 
 #skillsp{
     font-size: 3em;
+    font-weight: 1000;
 }
 
 .image_wrapper {
