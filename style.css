@@ -84,3 +84,9 @@ h1{
     display:flex;
     gap:200px;
 }
+
+.img{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
