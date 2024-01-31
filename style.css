@@ -7,7 +7,6 @@ body{
     flex-direction: column;
 }
 
-
 .social{float: left;
     position: relative;
 }
@@ -39,7 +38,9 @@ body{
 }
 
 h1{
-    position: relative;
+    font-size: 3em;
+    display: flex;
+    
 }
 
 .navbar ul{
