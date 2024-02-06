@@ -30,13 +30,6 @@ body{
     position: relative; left: 600px; bottom: 1200px;
 }
 
-#my-icon{
-    color: aqua;
-    font-size: 20em;
-    position: relative; left: 900px; bottom: 1855px;
-    cursor: pointer;
-}
-
 h1{
     font-size: 3em;
     display: flex;
