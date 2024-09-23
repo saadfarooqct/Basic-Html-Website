@@ -7,10 +7,6 @@ body{
     flex-direction: column;
 }
 
-.social{float: left;
-    position: relative;
-}
-
 .social-icon{
     color: darkmagenta;
     font-size: 15em;
